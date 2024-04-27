@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "pokemonFont";
+  src: url("../assets/fonts/Pokemon.ttf") format("truetype");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: "pokemonFont", sans-serif;
+}
