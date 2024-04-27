@@ -40,16 +40,6 @@ The Pokedex Web Application is a Flask-based web application designed to help yo
 6. Run the Flask application using `python app.py`.
 7. Access the application in your web browser at `http://localhost:8080`.
 
-## Contributing
+## Credit
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Yuval Mashraki
