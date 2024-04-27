@@ -34,11 +34,12 @@ The Pokedex Web Application is a Flask-based web application designed to help yo
 
 1. Clone the repository.
 2. Navigate to the root directory of the project.
-3. Set up a virtual environment using `python -m venv .venv`.
-4. Activate the virtual environment.
+3. Set up a virtual environment using `python -m venv .venv` in the pokedex folder.
+4. Activate the virtual environment using `source .venv/bin/activate`.
 5. Install dependencies using `pip install -r requirements.txt`.
 6. Run the Flask application using `python app.py`.
-7. Access the application in your web browser at `http://localhost:8080`.
+7. In a another terminal navigate to the client folder and Run `npm i`.
+8. Run `npm start` to lunch the UI and have fun :)
 
 ## Credit
 
